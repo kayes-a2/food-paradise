@@ -21,7 +21,7 @@ nav ul{
     margin right:  50px;
 }
 nav ul {
-    float: r
+    float: right ;
 }
 nav li{
     display: inline-block;
@@ -31,11 +31,11 @@ nav li{
     font-size: 18px;
 }
 .logo{
-    font-size: 30px;
-    color: gray;
-    font-size:50px;
-    padding: 0 100px;
+    color: white;
+    font-size:30px;
+    padding: 0 50px;
     line-height: 70px;
+    font-weight: bold;
 }
 
 
@@ -93,23 +93,22 @@ nav li{
 
 .menu{
     width: 20%;
-    height: 70%;
+    height: 80%;
     text-align: justify;
-    padding-left: 5%;
-    margin-top: 2%;
-    padding-right: 7%;
+    padding: 2%;
+    margin: 5%;
     border-radius: 20px;
     box-shadow : 5px 10px 15px gray;
+    margin-bottom: 100px;
 
 }
 
 
 .meal{
-    width: 120%;
-    height: 250px;
-}
-.bottom{
-        margin-bottom: 10%;
+    width: 100%;
+    height: 100%;
+    border-radius : 20px;
+    
 }
 
 #opacity{
@@ -119,15 +118,15 @@ nav li{
     width: 80%;
     display: flex;
     text-align: center;
-    padding-left: 5%;
-    padding-right: 20%;
     margin-right: 10%;
-    margin-right: 10%;
+    margin-left: 8%;
     line-height: 20px;
-    vertical-align: ;
+    vertical-align: middle;
+    padding : 3%  2%;
     border-radius: 20px;
-    box-shadow : 5px 10px 5px gray;
-    margin-top: 50;
+    box-shadow : 5px 10px 15px gray;
+    
+    margin-bottom: 100px;    
     
 }
 
@@ -135,8 +134,8 @@ nav li{
     height: 120px;
     margin-top: 20px;
     margin-bottom: 50px;
-    margin-right: 10%;
-    margin-left: 20%;
+    margin-right: 8%;
+    margin-left: 8%;
 
 }
 
@@ -151,7 +150,7 @@ footer{
     text-align: center;
     padding-top: 2%;
     padding-bottom: 3%;
-    margin-top: 5%;
+    margin-top: 50px;
 
 }
 
